@@ -53,6 +53,6 @@ Alongside that, I’m developing MUN-AI (Machine Understanding for Neutralizatio
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/zulfian-s-kom-0b60a015b)
-- [GitHub](https://github.com/zulfian23)
+- [GitLab](https://gitlab.com/zulfian1732)
 
 ---
