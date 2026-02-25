@@ -42,7 +42,7 @@ Alongside that, I’m developing MUN-AI (Machine Understanding for Neutralizatio
 ## 📈 Recent Projects
 - **MUN-AI** (Machine Understanding for Neutralization)     
   A proof-of-concept for offline AI orchestration using **Ollama** and a **Python GTK 4** UI. It integrates **Pandas, Matplotlib, and Seaborn** for data analysis, featuring a modular architecture where the model runs in a **Podman** container while analytics execute locally — enabling transparency, flexibility, and efficiency for edge or research environments.
-- **Munquet**
+- **Munquet**    
   A lightweight desktop tool for preparing and transforming tabular datasets into efficient **Apache Parquet** format. It supports conversion, merging, and validation workflows while maintaining a minimal native GTK interface.
 - **Jollpi 3.0**     
   A modern rebuild of my old college project — a native **Python + GTK 4** text editor using **GtkSourceView 5**. Designed for simplicity and responsiveness, with async I/O, per-tab file monitoring, and a lightweight UI, modern GTK interface.
