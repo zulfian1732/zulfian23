@@ -1,6 +1,6 @@
 # Hi, I'm Zulfian 👋
 
-**Python GTK App Dev | Maintainer/Author Jollpi Text Editor | Architect of MUN-AI | Linux Enthusiast | Full Stack Laravel**
+**Python GTK App Dev | Author of Jollpi Text Editor & Munquet Converter | Architect of MUN-AI | Linux Enthusiast | Full Stack Laravel**
 
 ---
 
@@ -11,6 +11,8 @@ Earlier, I spent some time in the banking sector — not in a tech position, but
 Back in university, I spent countless hours exploring Linux and building desktop tools with **Python**. I learned Linux from thick Slackware PDFs, experimented with Mandriva, Debian, and Backtrack on a modest 2 GB RAM laptop, and built a **Python + GTK** text editor called **Jollpi** as my final project. That experience shaped how I think about software: practical, efficient, and transparent. I’ve been a Linux (Manjaro) user ever since. 
 
 Today, I’m rebuilding **Jollpi** Text Editor from the ground up using **Python 3, GTK 4, and GtkSourceView 5**, keeping the same lightweight and native spirit but with a modern foundation.
+
+Recently, I also released **Munquet**, a lightweight desktop tool for preparing and transforming tabular datasets into efficient Apache Parquet format. It helps convert, merge, and validate files to reduce size and improve analytics performance. Building it expanded my experience in Python-based data processing and Flatpak-compliant desktop application design.
 
 Alongside that, I’m developing MUN-AI (Machine Understanding for Neutralization) — an offline AI orchestration proof-of-concept using Ollama with a Python GTK 4 UI, powered by Pandas, Matplotlib, and Seaborn. Unlike typical monolithic AI apps, MUN-AI follows a modular architecture: the model runs separately in a Podman container, while the UI performs analysis locally. This approach keeps the process transparent, verifiable, and flexible — and opens possibilities beyond data science, such as edge AI or distributed autonomous systems.
 
@@ -24,7 +26,7 @@ Alongside that, I’m developing MUN-AI (Machine Understanding for Neutralizatio
   Python (GTK 4, GtkSourceView 5), PHP (Laravel)
 
 - **Data & AI Tools**:        
-  Pandas, Matplotlib, Seaborn, Ollama (local LLM runtime)
+  Pandas, Matplotlib, Seaborn, PyArrow, Ollama (local LLM runtime)
 
 - **Database**:   
   MySQL, PostgreSQL (basic)
@@ -40,6 +42,8 @@ Alongside that, I’m developing MUN-AI (Machine Understanding for Neutralizatio
 ## 📈 Recent Projects
 - **MUN-AI** (Machine Understanding for Neutralization)     
   A proof-of-concept for offline AI orchestration using **Ollama** and a **Python GTK 4** UI. It integrates **Pandas, Matplotlib, and Seaborn** for data analysis, featuring a modular architecture where the model runs in a **Podman** container while analytics execute locally — enabling transparency, flexibility, and efficiency for edge or research environments.
+- **Munquet**
+  A lightweight desktop tool for preparing and transforming tabular datasets into efficient **Apache Parquet** format. It supports conversion, merging, and validation workflows while maintaining a minimal native GTK interface.
 - **Jollpi 3.0**     
   A modern rebuild of my old college project — a native **Python + GTK 4** text editor using **GtkSourceView 5**. Designed for simplicity and responsiveness, with async I/O, per-tab file monitoring, and a lightweight UI, modern GTK interface.
 - **Birth Registration System (Web & Desktop version)**     
