@@ -59,5 +59,6 @@ Alongside that, I’m developing MUN-AI (Machine Understanding for Neutralizatio
 - [LinkedIn](https://www.linkedin.com/in/zulfian-s-kom-0b60a015b)
 - [GitLab](https://gitlab.com/zulfian1732)
 - [Mastodon](https://mastodon.social/@zulfian)
+- [Youtube](https://www.youtube.com/@zulfian1732)
 
 ---
